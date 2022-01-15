@@ -13,3 +13,5 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 - Fake API com JSON Server;
 - Preservar dados do carrinho com localStorage API;
 - Mostrar erros com toastify.
+![xxxxx](https://user-images.githubusercontent.com/80647040/149640711-0587ed6c-e88d-4db7-bb9c-ecd7259e8546.png)
+![xxx](https://user-images.githubusercontent.com/80647040/149640713-fc77146b-6912-4890-b4c2-fcbeb3cdaad8.png)
